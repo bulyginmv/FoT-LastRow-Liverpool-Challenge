@@ -1,6 +1,7 @@
 # FoT-LastRow-Liverpool-Challenge
 Entry to a Friends of Tracking Liverpool FC Challenge. 
-
+Video of the presentation:
+(https://www.youtube.com/watch?v=dCrSrjjFXyg&feature=youtu.be)
 
 This repository is based on the repositories from Friends of Tracking github
 https://github.com/Friends-of-Tracking-Data-FoTD/Last-Row and 
@@ -9,6 +10,8 @@ https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking
 To see the code used for experiments, go to /notebooks/main.py
 
 The additional functions used for the presentation can be found in /scripts/liverpool_fot.py
+
+Presentation: FoT competition.odp
 
 
 Technical remarks and limitations:
