@@ -14,6 +14,33 @@ The additional functions used for the presentation can be found in /scripts/live
 
 Presentation: FoT competition.odp
 
+**Some results:**
+
+Assist Network in Liverpool:
+
+![](images/passingnetw.png)
+
+Average Space Gained with a Pass:
+
+![](images/gainedspace.png)
+
+Average Time Spent with a ball:
+
+![](images/timewithball.png)
+
+Speed of Liverpool:
+
+![](images/speed.png)
+
+Pitch Control Gained with a TTA pass to Andrew Robertson:
+
+![](images/pitchcontr.png)
+
+Finding a Space in xg zone (Origi's Goal to Barca):
+
+![](images/origispace.png)
+
+![](images/xgzone.png)
 
 Technical remarks and limitations:
 
